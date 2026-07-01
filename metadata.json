@@ -1,0 +1,6 @@
+{
+  "name": "DistroHub Enterprise Server ERP",
+  "description": "Enterprise-grade central distribution ERP managing licenses, users, geofenced shops, route beat schedules, SFA orders, billing, stock inventory, ledgers, allowances, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
